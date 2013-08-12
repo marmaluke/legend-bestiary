@@ -1,0 +1,4 @@
+legend-bestiary
+===============
+
+Basic bestiary
